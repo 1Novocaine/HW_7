@@ -1,0 +1,28 @@
+.cardUpMiddle {
+
+position: absolute;
+margin:auto;
+top: 10%;
+left: 77%;
+right: 3%;
+text-align: justify ;
+}
+
+
+.table-main {
+ position: absolute;
+ left: 50%;
+ top: 55%;
+ -webkit-transform: translate(-50%, -50%);
+ -moz-transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ -o-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+ width:200px; 
+ width:815px; 
+}
+
+.textPositionA, .textPositionB {
+	text-align:center;
+}
+
